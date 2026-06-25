@@ -17,7 +17,7 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 | Python       | Beginner     |
 | Git & GitHub | Beginner     |
 | Markdown     | Beginner     |
-| Add more...  | ...          |
+| html         | Beginne      |
 
 ---
 
