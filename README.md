@@ -42,7 +42,7 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsmekai0413-creator&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
